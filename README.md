@@ -1,4 +1,4 @@
-![Cyberpunk GIF](https://media.tenor.com/3bQgS6MdMT8AAAAC/cyberpunk.gif)
+
 
 <h1 align="center">Hi 👋, I'm Ghostly or Mint</h1>
 <h3 align="center">A student working on some projects that she loves</h3>
