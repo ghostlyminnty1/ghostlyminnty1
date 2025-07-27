@@ -1,7 +1,4 @@
-<div class="tenor-gif-embed" data-postid="5982980385213408029" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%">
-<a href="https://tenor.com/view/cyberpunk-gif-5982980385213408029">Cyberpunk Meme</a>from <a href="https://tenor.com/search/cyberpunk-memes">Cyberpunk Memes</a></div>
-
- <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Cyberpunk GIF](https://media.tenor.com/3bQgS6MdMT8AAAAC/cyberpunk.gif)
 
 <h1 align="center">Hi 👋, I'm Ghostly or Mint</h1>
 <h3 align="center">A student working on some projects that she loves</h3>
