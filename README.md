@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghostly or Mint</h1>
 <h3 align="center">A student working on some projects that she loves</h3>
 
-- 🔭 I’m currently working on **Roblox Game Showcase**
+- 🔭 I’m currently working on **Roblox Game Showcase, and Personal websites**
 
 - 🌱 I’m currently learning **Python, Javascript, and many more**
 
