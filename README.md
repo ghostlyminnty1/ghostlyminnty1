@@ -1,4 +1,4 @@
-<img  src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://giphy.com/gifs/nightlife-bladerunner-tokyo-city-eFvs5iE6a6ntVIRaEN)"/>
+<img  src="https://tenor.com/view/cyberpunk-gif-5982980385213408029"/>
 
 <h1 align="center">Hi 👋, I'm Ghostly or Mint</h1>
 <h3 align="center">A student working on some projects that she loves</h3>
