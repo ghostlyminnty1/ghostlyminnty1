@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi.
+
+<p align="center">
+  <img src="https://tenor.com/view/night-city-cyberpunk2077-night-city-skyline-chilling-at-scenic-view-watching-city-gif-26943044"/>
+</p>
 
 <!--
 **ghostlyminnty1/ghostlyminnty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
