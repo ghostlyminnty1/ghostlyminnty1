@@ -1,7 +1,7 @@
 ## Hi.
 
 <p align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="26943044" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/night-city-cyberpunk2077-night-city-skyline-chilling-at-scenic-view-watching-city-gif-26943044">Night City Cyberpunk2077 GIF</a>from <a href="https://tenor.com/search/night+city-gifs">Night City GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/>
+  <img src="https://tenor.com/view/night-city-cyberpunk2077-night-city-skyline-chilling-at-scenic-view-watching-city-gif-26943044"/>
 </p>
 
 <!--
