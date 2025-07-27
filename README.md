@@ -1,11 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-<iframe src="https://giphy.com/embed/eFvs5iE6a6ntVIRaEN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-</iframe>
-
-</div>
-<p>
-<a href="https://giphy.com/gifs/nightlife-bladerunner-tokyo-city-eFvs5iE6a6ntVIRaEN">via GIPHY</a>
-</p>
+<img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://giphy.com/gifs/nightlife-bladerunner-tokyo-city-eFvs5iE6a6ntVIRaEN)"/>
 
 <h1 align="center">Hi 👋, I'm Ghostly or Mint</h1>
 <h3 align="center">A student working on some projects that she loves</h3>
